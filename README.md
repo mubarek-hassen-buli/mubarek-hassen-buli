@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubarek Hassen</h1>
+  <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 <h3 align="center">A passionate Full Stack Developer from Ethiopia.</h3>
 
 - 🔭 I’m currently working on **A Full Stack SAAS project**
