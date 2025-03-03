@@ -1,6 +1,6 @@
-
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Mubrek Hassen</h1>
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mubarek+%F0%9F%91%8B;Software+Engineer+Student;A+Full-Stack+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=+%F0%9F%91%8B;Software+Engineer+Student;A+Full-Stack+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
 <h3 align="center">A passionate Full Stack Developer from Ethiopia.</h3>
 
@@ -15,6 +15,8 @@
 - 📫 How to reach me **mubirimuru@gmail.com**
 
 - ⚡ Fun fact **At The time of Stress coding, I use to be in half sleeping mode**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
