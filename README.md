@@ -31,13 +31,14 @@
 
 
 
-# 📊 GitHub Stats:
+# GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mubarek-hassen-buli&theme=dark&hide_border=false&cache_seconds=86400)
+![](https://github-readme-stats.vercel.app/api?username=mubarek-hassen-buli&theme=dark&include_all_commits=true&count_private=true&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=mubarek-hassen-buli&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com?user=mubarek-hassen-buli&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubarek-hassen-buli&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubarek-hassen-buli&theme=dark&layout=compact&hide_border=true)
+
 
 
 
