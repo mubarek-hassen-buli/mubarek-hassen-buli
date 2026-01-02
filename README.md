@@ -30,14 +30,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mubarek-hassen-a1b115347/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mubarek113158) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mubirimuru@gmail.com) 
 
 
-
 # GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mubarek-hassen-buli&theme=dark&include_all_commits=true&count_private=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=mubarek-hassen-buli&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600)
 
 ![](https://streak-stats.demolab.com?user=mubarek-hassen-buli&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubarek-hassen-buli&theme=dark&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubarek-hassen-buli&theme=dark&layout=compact&hide_border=true&cache_seconds=21600)
+
 
 
 
