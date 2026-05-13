@@ -1,45 +1,135 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Mubarek Hassen</h1>
-  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+Student;A+Full-Stack+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
-    </div>
-<h3 align="center">A passionate Full Stack Developer from Ethiopia.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **A Full Stack SAAS project**
+<img width="180" alt="ChatGPT Image May 11, 2026, 11_20_19 AM" src="https://github.com/user-attachments/assets/b9dc4451-9112-4bdb-be9e-14407460f78d" style="border-radius:50%;" />
 
-- 🌱 I’m currently learning **Web Development and other programming languages**
+<img src="YOUR_CARTOON_IMAGE_LINK_HERE" width="180" style="border-radius:50%;" />
 
-- 👯 I’m looking to collaborate on **A Full Stack,Machine Learning and Deep Learning Projects**
+# Mubarek Hassen
 
-- 💬 Ask me about **react,next.js**
+### Full Stack Developer • Software Engineer • Builder
 
-- 📫 How to reach me **mubirimuru@gmail.com**
+<p>
+Building modern web & mobile applications with clean design and scalable architecture.
+</p>
 
-- ⚡ Fun fact **At The time of Stress coding, I use to be in half sleeping mode**
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2F+Next.js+Developer;Mobile+App+Developer;Building+Cool+Products" />
 
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+</div>
 
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+---
 
+# About Me
 
+```ts
+const mubarek = {
+  location: "Ethiopia",
+  role: "Full Stack Developer",
+  currentlyBuilding: [
+    "README Generator SaaS",
+    "DireMarket",
+    "Mobile Applications"
+  ],
+  technologies: [
+    "React",
+    "Next.js",
+    "React Native",
+    "Node.js",
+    "NestJS",
+    "Supabase",
+    "PostgreSQL"
+  ],
+};
+```
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mubarek-hassen-a1b115347/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mubarek113158) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mubirimuru@gmail.com) 
+# Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,supabase,tailwind,git,github,python,figma" />
+
+</div>
+
+---
+
+# Currently Building
+
+- 🚀 README Generator SaaS
+- 📱 Cross-platform mobile apps using React Native
+- 🛒 DireMarket student marketplace
+- ⚡ Backend systems with NestJS & Supabase
+
+---
 
 # GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mubarek-hassen-buli&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600)
+<div align="center">
 
-![](https://streak-stats.demolab.com?user=mubarek-hassen-buli&theme=dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mubarek-hassen-buli&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=000000" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubarek-hassen-buli&theme=dark&layout=compact&hide_border=true&cache_seconds=21600)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mubarek-hassen-buli&theme=white&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&dates=000000&sideNums=000000" />
 
+</div>
 
+---
 
+# Top Languages
 
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubarek-hassen-buli&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000" />
+
+</div>
+
+---
+
+# Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📘 README Generator SaaS
+AI-powered README builder with GitHub integration.
+
+</td>
+
+<td width="50%">
+
+### 🛒 DireMarket
+Student marketplace platform built with React Native & Supabase.
+
+</td>
+</tr>
+</table>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mubarek-hassen-a1b115347/">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/mubarek113158">
+  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:mubirimuru@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Code. Create. Improve."
+
+</div>
